@@ -2228,7 +2228,6 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -2258,7 +2257,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/quote.jpg");
 			}
 
 			#main > section.two {
