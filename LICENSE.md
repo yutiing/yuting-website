@@ -1,11 +1,14 @@
 # Licensing and Copyright
 
-## Modified work - Content (images, biograhy, photos, text, articles, videos, films...)
+## Modified work - Content (images, biography, photos, text, articles, videos, films...)
 
-Copyright (c), 2020 Yuting Jiang.
+Copyright (c), Yuting Jiang.
 All rights reserved.
 
 ## Original Work and modified _template_ source code
+
+Original work Copyright, HTML5UP.
+Both are published under the following license.
 
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
