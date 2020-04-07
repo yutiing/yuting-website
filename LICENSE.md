@@ -1,6 +1,6 @@
 # Licensing and Copyright
 
-## Modified work - Content (images, biograhy, photos, text, articles, videos, films...)
+## Modified work - Content (images, biography, photos, text, articles, videos, films...)
 
 Copyright (c), Yuting Jiang.
 All rights reserved.
