@@ -1765,6 +1765,16 @@ input, select, textarea {
 				height: 48px;
 			}
 
+    .image.avatar500 {
+        width: 150px;
+        background: #f00;
+    }
+
+        .image.avatar500 img {
+            width: 150px;
+        }
+
+
 		.image.fit {
 			display: block;
 			width: 100%;
@@ -2096,8 +2106,8 @@ input, select, textarea {
 
 	#logo {
 		position: relative;
-		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+		margin: 1.5em 1.0em 1.75em 1.5em;
+		min-height: 150px;
 		cursor: default;
 	}
 
