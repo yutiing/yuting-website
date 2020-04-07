@@ -2289,6 +2289,11 @@ input, select, textarea {
 				width: 300px;
 			}
 
+      #logo .image {
+          position: relative;
+          margin: 0 0 0.5em 0;
+      }
+
 		/* Footer */
 
 			#footer {
@@ -2349,11 +2354,6 @@ input, select, textarea {
 
 			#header {
 				width: 20%;
-			}
-
-			#logo .image {
-				position: relative;
-				margin: 0 0 0.5em 0;
 			}
 
 			#nav ul li a {
@@ -2469,6 +2469,11 @@ input, select, textarea {
 			#logo {
 				margin: 1.5em 1.25em 1.25em 1.25em;
 			}
+
+      #logo .image {
+          position: relative;
+          margin: 0 0 0.5em 0;
+      }
 
 			#nav ul li a {
 				padding: 0.5em 1.25em 0.5em 1.25em;
