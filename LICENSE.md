@@ -1,14 +1,15 @@
 # Licensing and Copyright
 
-## Modified work - Content (images, biography, photos, text, articles, videos, films...)
+## Content (images, biography, photos, text, articles, videos, films...)
 
 Copyright (c), Yuting Jiang.
 All rights reserved.
 
-## Original Work and modified _template_ source code
+## Template source code
 
-Original work Copyright, HTML5UP.
-Both are published under the following license.
+Original work (Prologue): Copyright (c), HTML5UP (html5up.net | @ajlkn). 
+Modified work: Copyright (c), Yuting Jiang.
+Both work are published under the following license.
 
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
